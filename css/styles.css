@@ -1,0 +1,77 @@
+body{
+    font-family: 'Montserrat';
+    text-align: center;
+    background: #c0c0aa;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #1cefff, #c0c0aa);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #1cefff, #c0c0aa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-family: 'Montserrat-black',sans-serif;
+    font-weight: 600;
+}
+
+.brand{
+    font-family: "Ubuntu";
+    font-size: 2.0rem;
+    font-weight: bold;
+    color:purple;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Ubuntu-light", sans-serif;
+    color: purple;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.cover-container{
+    padding: 3% 10%;
+}
+
+.px-3{
+    padding-top: 120px;
+}
+
+.lead{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    padding-top: 30px;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 10px;
+}
+
+.lead2{
+    font-family: 'Montserrat';
+    font-size: xx-large;
+    padding: 4% 15% 0 15%;
+}
+
+.social-icon{
+    margin: 20px 10px;
+    color: white;
+}
+
+.social-icon:hover{
+    color: yellow;
+}
+
+.row{
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 250px;
+    margin-right: 0;
+}
+
+#footer{
+    padding-top: 50px;
+}
